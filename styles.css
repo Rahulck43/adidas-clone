@@ -1,0 +1,306 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.head{
+    height: 110px;
+    width: 100%;    
+    background-color:white;
+}
+.head1{
+  
+    background-color: black;
+    height: 28px;
+    display: flex;
+    justify-content: space-around;
+    
+
+}
+.font{
+    
+    font-size: 11px;
+    margin-top: 8px;
+    color: white;
+   font-family: AdihausDIN, Helvetica, Arial, sans-serif;
+    
+}
+.head2{
+   float:right;
+  margin-right: 50px;
+}
+.nav-s{
+    display: flex;
+    list-style: none;
+    
+    
+    
+}
+.nav-s li{
+    margin-right: 25px;
+    
+}
+.nav-container{
+    display: flex;
+    
+   
+}
+.head3{
+    height: 80px;
+    width: 100px;
+    
+}
+.logo{
+    height: 62px;
+    width: 62px;
+    margin-left: 42px;
+    margin-top: 15px;
+}
+
+.nav1{
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+    
+}
+.centre-links{
+    margin-left: 220px;
+    margin-top: 50px;
+}
+.nav1 li{
+    margin-right: 20px;
+}
+.right-links{
+    margin-top: 50px;
+    margin-left: 40px;
+    display: flex;
+}
+.searchicon{
+
+    display: flex;
+    font-size: 18px;
+    border:1px solid black;
+    background-color: #eceff1;
+    
+}
+.user-icon{
+    margin-left: 33px;
+    margin-top: 8px;
+    font-size: 22px;
+}
+
+.wishlist{
+    margin-left: 20px;
+    margin-top: 8px;
+    font-size: 22px;
+}
+.cart{
+    margin-left: 20px;
+    margin-top: 8px;
+    font-size: 22px;
+}
+ .leftcontent1{
+  padding-top: 9px;
+    height: 600px;
+    width:431px ;
+    
+    
+    margin-left: 35px;
+ } 
+ .sec-1{
+    background-image: url("/adidas/images/CMD_tcm209-898573.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+ }  
+ .inner1{
+    height: 77px;
+    margin-left: 17px;
+   padding-top: 39px;
+   margin-top: 4px;
+ }
+ .inner2{
+    height: 110px;
+    padding-top: 30px;
+    margin-left: 17px;
+    margin-top: 10px;
+ }
+ .inner3{
+    height: 228px;
+    margin-left: 17px;
+    
+ }
+ .shopmen{
+    height: 50px;
+    margin-bottom: 10px;
+ }
+ .mbutton{
+    background-color: black;
+    height: 50px;
+    width: 154px;
+    color: white;
+    display: flex;
+    
+ }
+ .mbutton i{
+    margin-left: 120px;
+    margin-bottom: 20px;
+    font-size: 20px;
+ }
+ .shopwomen{
+    height: 50px;
+    margin-top: 10px;
+ }
+ .wbutton{
+    background-color: black;
+    height: 50px;
+    width: 194px;
+    color: white;
+    display: flex;
+ }
+ .shopkids{
+    height: 50px;
+    margin-top: 10px;
+ }
+ .kbutton{
+    background-color: black;
+    height: 50px;
+    width: 154px;
+    color: white;
+    display: flex;
+ }
+ .sec-2{
+    height: 657px;
+    width: auto;
+    background-image: url("/adidas/images/football-fw22-worldcup-brandcampaign-launch-homepage-kickoff-masthead-d_tcm209-961909.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+ }
+ .leftcontent2{
+    margin-left: 50px;
+ }
+ .quote{
+    height: 70px;
+    width: 415px;
+    margin-top: 10px;
+ }
+ .explore-button{
+    height: 52px; 
+    width: 187px;
+    margin-top: 15px;
+    background-color: white;
+    display: flex;
+    color: black;
+ }
+ .centre2{
+    margin-top: 20px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    
+    text-align: center;
+    
+ }
+ .nmd{
+    /* height: 25px;
+    width: 58px; */
+    border:1px solid black;
+    padding: 5px;
+    margin-right: 25px;
+ }
+ .shopfor{
+    height: 312px;
+    margin-top: 10px;
+    display: flex;
+ }
+
+ .shoes{
+    height: 385px;
+    
+    
+ }
+.shoe{
+    height: 250px;
+    width: 250px;
+    
+}
+.shoef{
+font-family: AdihausDIN, Helvetica, Arial, sans-serif;
+font-size: 14px;
+line-height: 22px;
+}
+.catf{
+font-family: AdihausDIN;
+font-size: 14px;
+line-height: 22px;
+}
+.newf{
+font-family: AdihausDIN, Helvetica, Arial, sans-serif;
+font-size: 14px;
+line-height: 22px;
+}
+ .describe{
+    height: 90px;
+   
+ }
+ .des{
+    display: flex;
+ }
+ .story{
+    height: 600px;
+    background-color: #eceff1;
+    display: flex;
+ }
+ .story1{
+    height: 461px;
+    width: 506px;
+    margin-left: 150px;
+    
+ }
+ .story2{
+    height: 461px;
+    width: 506px;
+    margin-left: 20px;
+ }
+ .join{
+    height: 145px;
+    background-color: #ede734;
+    display: flex;
+ }
+ .join-button{
+    height: 52px; 
+    width: 147px;
+    margin-left: 60px;
+    margin-top: 50px;
+    background-color: black;
+    display: flex;
+    color: white;
+ }
+ .main-foot{
+   height: 335px;
+  
+   display: flex;
+   margin-left: 170px;
+   margin-right: 142px;
+ }
+ .f1{
+   height: 266px;
+   width: 173px;
+   margin-left: 28px;
+   margin-top: 39px;
+   
+ }
+ .ffond{
+   font-family: AdihausDIN, Helvetica, Arial, sans-serif;
+   font-size: 13px;
+   list-style: none;
+
+ }
+ .ffond li{
+   margin: 5px;
+ }
+ .bottom{
+   height: 122px;
+   background-color: #363738;
+ }
+
+
+
